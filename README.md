@@ -1,2 +1,2 @@
 # DS-Project
-Data Science Project
+Author: Anita Li
